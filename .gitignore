@@ -4,3 +4,5 @@
 
 /AbstractFactory/obj
 /.vs/DesignPatterns
+/.vs
+/Creational/AbstractFactory/obj
